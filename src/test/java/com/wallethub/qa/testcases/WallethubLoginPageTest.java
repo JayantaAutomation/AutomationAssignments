@@ -21,8 +21,8 @@ public class WallethubLoginPageTest {
     @BeforeTest
     public void beforeTest() {
         WebDriverFactory.startBrowser(true);
-        String login = "jay.panda@rediffmail.com"; // TODO: add login/pass
-        String pass = "Jayanta$123";
+        String login = ""; // TODO: add login/pass
+        String pass = "";
         
         WallethubLoginPage loginPage = new WallethubLoginPage();
         loginPage.login(login, pass);
