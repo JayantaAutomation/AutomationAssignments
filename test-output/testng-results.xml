@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Full Suite" duration-ms="93805" started-at="2018-11-17T18:39:26Z" finished-at="2018-11-17T18:41:00Z">
+  <suite name="Full Suite" duration-ms="95455" started-at="2018-11-18T12:46:49Z" finished-at="2018-11-18T12:48:25Z">
     <groups>
     </groups>
-    <test name="For Facebook" duration-ms="43519" started-at="2018-11-17T18:39:26Z" finished-at="2018-11-17T18:40:10Z">
+    <test name="For Facebook" duration-ms="42248" started-at="2018-11-18T12:46:49Z" finished-at="2018-11-18T12:47:32Z">
       <class name="com.wallethub.qa.testcases.FacebookLoginPageTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="beforeTest" is-config="true" duration-ms="18338" started-at="2018-11-17T18:39:26Z" finished-at="2018-11-17T18:39:44Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="beforeTest" is-config="true" duration-ms="16450" started-at="2018-11-18T12:46:49Z" finished-at="2018-11-18T12:47:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="postReviewTest()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="postReviewTest" duration-ms="23970" started-at="2018-11-17T18:39:44Z" finished-at="2018-11-17T18:40:08Z">
+        <test-method status="PASS" signature="postReviewTest()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="postReviewTest" duration-ms="24708" started-at="2018-11-18T12:47:06Z" finished-at="2018-11-18T12:47:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postReviewTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="tearDown" is-config="true" duration-ms="1160" started-at="2018-11-17T18:40:08Z" finished-at="2018-11-17T18:40:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wallethub.qa.testcases.FacebookLoginPageTest@91161c7]" name="tearDown" is-config="true" duration-ms="1029" started-at="2018-11-18T12:47:31Z" finished-at="2018-11-18T12:47:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.wallethub.qa.testcases.FacebookLoginPageTest -->
     </test> <!-- For Facebook -->
-    <test name="For Wallethub" duration-ms="50244" started-at="2018-11-17T18:40:10Z" finished-at="2018-11-17T18:41:00Z">
+    <test name="For Wallethub" duration-ms="53175" started-at="2018-11-18T12:47:32Z" finished-at="2018-11-18T12:48:25Z">
       <class name="com.wallethub.qa.testcases.WallethubLoginPageTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="beforeTest" is-config="true" duration-ms="15259" started-at="2018-11-17T18:40:10Z" finished-at="2018-11-17T18:40:25Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="beforeTest" is-config="true" duration-ms="16950" started-at="2018-11-18T12:47:32Z" finished-at="2018-11-18T12:47:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="canWriteReview()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="canWriteReview" duration-ms="34198" started-at="2018-11-17T18:40:25Z" finished-at="2018-11-17T18:40:59Z">
+        <test-method status="PASS" signature="canWriteReview()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="canWriteReview" duration-ms="35443" started-at="2018-11-18T12:47:49Z" finished-at="2018-11-18T12:48:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- canWriteReview -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="afterTest" is-config="true" duration-ms="780" started-at="2018-11-17T18:40:59Z" finished-at="2018-11-17T18:41:00Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.wallethub.qa.testcases.WallethubLoginPageTest@42dafa95]" name="afterTest" is-config="true" duration-ms="778" started-at="2018-11-18T12:48:24Z" finished-at="2018-11-18T12:48:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

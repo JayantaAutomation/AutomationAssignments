@@ -39,7 +39,7 @@ public class WallethubLoginPageTest {
         reviewPage.rateNstart(5);
         String msg = "";
         for (int i = 0; i < 30; i++) {
-            msg += " Hey, You!";
+            msg += " Test, Ignore!";
         }
         reviewPage.fillReviewInput(msg);
         reviewPage.setSubmitReview();

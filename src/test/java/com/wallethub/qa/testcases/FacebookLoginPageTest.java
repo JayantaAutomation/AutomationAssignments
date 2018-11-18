@@ -14,10 +14,9 @@ public class FacebookLoginPageTest {
 	WebDriver driver;
 
 	//Declare Facebook Credentials
-	//String user="Enter your Email or Phone number";
-	String user="8073813879";
-	//String pass="Enter your Password";
-	String pass="Gopal$14";
+	String user="Enter your Email or Phone number";
+	String pass="Enter your Password";
+
 	
 	@BeforeTest
 	public void beforeTest() throws InterruptedException {
